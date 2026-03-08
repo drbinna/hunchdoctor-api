@@ -1,4 +1,6 @@
-export const runtime = "edge";
+export const config = {
+    runtime: "edge",
+};
 
 export default async function handler(req: Request) {
     const apiKey = process.env.HUME_API_KEY;
