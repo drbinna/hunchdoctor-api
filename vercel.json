@@ -1,0 +1,7 @@
+{
+    "functions": {
+        "api/hume-token.ts": {
+            "runtime": "edge"
+        }
+    }
+}
