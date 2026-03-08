@@ -1,8 +1,9 @@
 {
-  "name": "hunchdoctor-api",
-  "private": true,
-  "devDependencies": {
-    "@types/node": "^25.3.5",
-    "typescript": "^5.9.3"
-  }
+    "name": "hunchdoctor-api",
+    "private": true,
+    "type": "module",
+    "dependencies": {
+        "@types/node": "^25.3.5",
+        "typescript": "^5.9.3"
+    }
 }
